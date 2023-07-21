@@ -1,0 +1,35 @@
+body{
+    background:url(https://i0.wp.com/caitlynnlawson.com/wp-content/uploads/2020/09/DSC_0027.jpg?resize=640%2C427&ssl=1)
+}
+
+form{
+  display: grid;  
+}
+
+h1{
+    color: rgb(7, 247, 19);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+p{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(235, 252, 5);
+}
+
+ol{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: flex-end;
+}
+
+.list{
+    color: rgb(6, 209, 162);
+   align-text: center;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url(https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2021/07/e473dc56c07014e97b1a8a94f554a509.jpg) no-repeat;
+    width: 800px;
+    height: 500px;
+}
